@@ -1,7 +1,5 @@
 # Aluraflix
 
-![Aluraflix]()
-
 Aluraflix es una aplicación de catálogo de videos inspirada en Netflix, diseñada para administrar y visualizar videos organizados por categorías. Este proyecto es parte de un desafío del programa Oracle Next Education (ONE).
 
 ---
@@ -44,14 +42,6 @@ Sigue estos pasos para instalar y ejecutar el proyecto localmente:
    npm start
    ```
 
----
-
-## **Uso**
-1. Agrega un video proporcionando el título, enlace y categoría.
-2. Edita los videos directamente desde la interfaz usando el ícono de edición.
-3. Elimina videos usando el ícono de papelera con confirmación de seguridad.
-
----
 
 
 
